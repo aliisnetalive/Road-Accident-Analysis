@@ -8,7 +8,7 @@ Here are the two pages of the interactive Power BI dashboard, providing a visual
 
 ### Dashboard Page 1
 
-![Dashboard Page 1]([https://raw.githubusercontent.com/aliisnetalive/Road-Accident-Analysis/refs/heads/main/001.webp]))
+![Dashboard Page 1](https://github.com/aliisnetalive/Road-Accident-Analysis/blob/main/001.jpg?raw=true))
 
 ### Dashboard Page 2
 
