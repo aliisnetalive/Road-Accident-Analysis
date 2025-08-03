@@ -8,7 +8,7 @@ Here are the two pages of the interactive Power BI dashboard, providing a visual
 
 ### Dashboard Page 1
 
-![Dashboard Page 1]([https://private-us-east-1.manuscdn.com/sessionFile/QafYxSHokfV28hAoB7rjVi/sandbox/22aCKO5Ru0ffSxnzhr2VlT-images_1754258540607_na1fn_L3RtcC9wZGZfaW1hZ2VzL3JvYWRwb3dlcmJpLzAwMQ.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUWFmWXhTSG9rZlYyOGhBb0I3cmpWaS9zYW5kYm94LzIyYUNLTzVSdTBmZlN4bnpocjJWbFQtaW1hZ2VzXzE3NTQyNTg1NDA2MDdfbmExZm5fTDNSdGNDOXdaR1pmYVcxaFoyVnpMM0p2WVdSd2IzZGxjbUpwTHpBd01RLndlYnAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=AAZLabX0QPDBHzwuJVPSxruLDKi9o1N27Om1g8medRi~ZJtGWtU089PRVNb0pGXOQYHydUrO1sXrcgni4SJGH4Gh7DaFr18aFr8ZAtelKZUvMnZNhX24kU5ugKxsdRASALzSgnOQWrQxUMcu~so2nLzAnGVjJMmjTa4winT5CWHt~wq-yChhZDA2dKCI-W391HTNMRVIfSTc1bB1t7K7-wLrkg~e9nNgXcAyxXiSXIzjLZCFGWOqUq068y3iRPhAFaJLpa5lUfq~1YeEIpGuSrtKeWE45UQM5rpdFbaVHYurZFKK-9JBhTEmJG2zI4qT9LmYs76SmhkzsfXGlRBAuw__](https://raw.githubusercontent.com/aliisnetalive/Road-Accident-Analysis/refs/heads/main/001.webp))
+![Dashboard Page 1]([https://raw.githubusercontent.com/aliisnetalive/Road-Accident-Analysis/refs/heads/main/001.webp]))
 
 ### Dashboard Page 2
 
